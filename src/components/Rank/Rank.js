@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Rank = ({userName,userEntries}) => {
+const Rank = ({ userName, userEntries }) => {
     return (
         <div>
             <div className='white f3'>
