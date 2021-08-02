@@ -3,6 +3,10 @@
 This application allows the user to add an image URL to detect the faces in the image using a machine learning face detection API, with every image submission the user entry score increases.
 The user can register, sign in, sign out and submit an image URL.
 
+## Preview
+
+https://smartfacerecognitionbrain.herokuapp.com/
+
 ## Installation
 
 ```bash
