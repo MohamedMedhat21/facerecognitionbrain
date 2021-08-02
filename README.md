@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This application allows the user to add an image URL to detect the faces in the image using a machine learning face detection API, with every image submission the user entry score increases.
+The user can register, sign in, sign out and submit an image URL.
+
 ## Available Scripts
 
 In the project directory, you can run:
