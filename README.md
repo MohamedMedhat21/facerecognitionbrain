@@ -1,9 +1,22 @@
-# About the App
+# Smart brain Face Recognition App
 
 This application allows the user to add an image URL to detect the faces in the image using a machine learning face detection API, with every image submission the user entry score increases.
 The user can register, sign in, sign out and submit an image URL.
 
-# Samples from the App
+## Installation
+
+```bash
+# Clone the repo
+$ git clone https://github.com/MohamedMedhat21/facerecognitionbrain.git
+
+# Install dependencies
+$ npm install
+```
+## Getting Started
+
+```bash
+$ npm start
+```
 
 ## Register page
 
