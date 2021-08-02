@@ -1,9 +1,39 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About the App
 
 This application allows the user to add an image URL to detect the faces in the image using a machine learning face detection API, with every image submission the user entry score increases.
 The user can register, sign in, sign out and submit an image URL.
+
+# Samples from the App
+
+## Register page
+
+![register-page](./public/readme images/register-page.png)
+
+## Sign In page
+
+![signin-page](./public/readme images/signin-page.png)
+
+## Home page
+
+### here you can enter the image URL to detect the face in that image
+
+![sample](./public/readme images/homepage.png)
+
+## searching for an image
+
+### copy the image URL
+
+![sample](./public/readme images/linkpage.png)
+
+## testing the App
+
+### paste the image URL and click detect, then the App will detect the face and add a box around it, also the user entry score will be increased by one
+
+![sample](./public/readme images/app-page.png)
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
