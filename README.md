@@ -7,29 +7,29 @@ The user can register, sign in, sign out and submit an image URL.
 
 ## Register page
 
-![register-page](./public/readme images/register-page.png)
+![register-page](https://github.com/MohamedMedhat21/facerecognitionbrain/blob/master/public/readme%20images/register-page.png)
 
 ## Sign In page
 
-![signin-page](./public/readme images/signin-page.png)
+![signin-page](https://github.com/MohamedMedhat21/facerecognitionbrain/blob/master/public/readme%20images/signin-page.png)
 
 ## Home page
 
-### here you can enter the image URL to detect the face in that image
+here you can enter the image URL to detect the face in that image.
 
-![sample](./public/readme images/homepage.png)
+![sample](https://github.com/MohamedMedhat21/facerecognitionbrain/blob/master/public/readme%20images/homepage.png)
 
 ## searching for an image
 
-### copy the image URL
+copy the image URL
 
-![sample](./public/readme images/linkpage.png)
+![sample](https://github.com/MohamedMedhat21/facerecognitionbrain/blob/master/public/readme%20images/linkpage.png)
 
 ## testing the App
 
-### paste the image URL and click detect, then the App will detect the face and add a box around it, also the user entry score will be increased by one
+paste the image URL and click detect, then the App will detect the face and add a box around it, also the user entry score will be increased by one.
 
-![sample](./public/readme images/app-page.png)
+![sample](https://github.com/MohamedMedhat21/facerecognitionbrain/blob/master/public/readme%20images/app-page.png)
 
 ## Getting Started with Create React App
 
